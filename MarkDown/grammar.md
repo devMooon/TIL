@@ -144,7 +144,7 @@
 ```
 ```
     ```java
-    system.out.println("Hello world");
+    System.out.println("Hello world");
     int i = 0
     var k = 5
     ```
@@ -162,7 +162,7 @@
     int i = 0
 ```
 ```java
-    system.out.println("Hello world");
+    System.out.println("Hello world");
     int i = 0
     var k = 5
 ```
